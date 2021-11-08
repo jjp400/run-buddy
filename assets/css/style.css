@@ -78,6 +78,8 @@ section {
     background-size: cover;
     background-position: center;
     position: relative;
+
+
 }
 /* Hero Style End */
 
@@ -267,4 +269,13 @@ section {
 
 .contact-info a {
     color: #fce138;
+}
+
+.secondary-content ul {
+    margin: 15px 20px 15px 20px;
+}
+
+.secondary-content li {
+    color: #39a6b2;
+    margin: 10px 0 10px 0;
 }

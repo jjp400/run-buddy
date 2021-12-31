@@ -1,4 +1,4 @@
-# Run Buddy, Inc
+# Landing Page for Run Buddy, Inc
 
 ## Purpose
 A website that offers fitness training services. 

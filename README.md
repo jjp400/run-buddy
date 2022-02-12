@@ -8,6 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
+https://johnproodian.github.io/run-buddy-landing-page/
 
 ## What I Learned
 * Overall: Building and styling static web pages using semantic HTML and CSS

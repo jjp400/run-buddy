@@ -1,6 +1,4 @@
 # Run Buddy (landing Page)
-
-## Purpose
 A website that offers fitness training services. 
 
 ## Built With

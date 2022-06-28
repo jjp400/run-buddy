@@ -1,4 +1,4 @@
-# Run Buddy (landing Page)
+# Run Buddy (Landing Page)
 A website that offers fitness training services
 
 ## Built With

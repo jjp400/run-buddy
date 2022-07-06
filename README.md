@@ -1,6 +1,12 @@
 # Run Buddy (Landing Page)
 A website that offers fitness training services
 
+## Screenshots
+![hero with form](./hero.png)
+![what we do section](./we-do.png)
+![what you do section](./you-do.png)
+![meet your trainers section](./trainers.png)
+
 ## Built With
 * HTML
 * CSS
